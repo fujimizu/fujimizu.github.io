@@ -1,4 +1,5 @@
 baseURL = "https://fujimizu.github.io"
+publishDir = "docs"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
